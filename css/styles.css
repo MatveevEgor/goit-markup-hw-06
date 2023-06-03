@@ -164,8 +164,6 @@ img {
 .filter-button {
   background-color: var(--light-mode-bcg-cloud);
   color: var(--primary-brand-color-iris);
-  font-family: 'Roboto', sans-serif;
-  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -217,8 +215,6 @@ img {
 .modal-button {
   color: var(--text-white-color);
   background-color: var(--primary-brand-color-iris);
-  font-family: 'Roboto', sans-serif;
-  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -607,8 +603,6 @@ img {
   display: flex;
   color: var(--text-white-color);
   background-color: var(--primary-brand-color-iris);
-  font-family: 'Roboto', sans-serif;
-  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -837,8 +831,6 @@ img {
 .modal-form-submit {
   color: var(--text-white-color);
   background-color: var(--primary-brand-color-iris);
-  font-family: 'Roboto', sans-serif;
-  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
